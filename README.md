@@ -1,2 +1,2 @@
 # 1stGithubProj
-Its my first Git Repository.Author Zaid Bajwa
+Its my first Git Repository.<br>Author Zaid Bajwa
